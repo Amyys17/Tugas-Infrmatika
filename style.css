@@ -1,0 +1,20 @@
+              .navbar {
+          background-color: #8b3535; /* Warna biru tua */
+          padding: 15px 0;
+          text-align: center;
+        }
+        
+        .navbar a {
+          color: white;
+          text-decoration: none;
+          margin: 0 40px;
+          font-weight: bold;
+          font-size: 16px;
+          transition: color 0.3s ease;
+        }
+        
+        .navbar a:hover {
+          color: #ffd369;
+        }
+
+       
